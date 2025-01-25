@@ -18,8 +18,9 @@ WEB
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<hr>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keun04&show_icons=true&theme=algolia&locale=en" alt="keun04" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keun04&show_icons=true&theme=algolia&locale=en&layout=compact" alt="keun04" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keun04&show_icons=true&theme=algolia&locale=en" alt="keun04" width="500" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keun04&show_icons=true&theme=algolia&locale=en&layout=compact" alt="keun04" width="448"/>
 </p>
