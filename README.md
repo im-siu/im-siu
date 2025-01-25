@@ -21,6 +21,6 @@ WEB
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keun04&show_icons=true&theme=algolia&locale=en" alt="keun04" width="300" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keun04&show_icons=true&theme=algolia&locale=en&layout=compact" alt="keun04" width="270"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=keun04&show_icons=true&theme=algolia&locale=en" alt="keun04" width="400" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keun04&show_icons=true&theme=algolia&locale=en&layout=compact" alt="keun04" width="358"/>
 </p>
