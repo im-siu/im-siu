@@ -1,4 +1,4 @@
-# 시우
+# ☁️ 시우
 
 사용자 경험과 스토리텔링을 바탕으로 인터랙티브 콘텐츠를 구현하는 프론트엔드 개발자 지망생입니다.  
 현재 Apple Developer Academy에서 iOS와 Spatial Computing을 경험하고 있으며,  
